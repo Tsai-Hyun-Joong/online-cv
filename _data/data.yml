@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I studied at FJU and now studying in NTU.
+      I studied at FJU and now studying at NTU.
       
 education:
     - degree: MSc in Computer Science
@@ -83,19 +83,19 @@ projects:
     intro: >
       building······
     assignments:
-      - title: projects_name
+      - title: AR Board Game
         link: "#hook"
-        tagline: "sth be used to do sth"
+        tagline: "Develop an AR board game on tablets"
 
-publications:
-    title: Publications
-    intro: |
-      None.
-    papers:
-      - title: To be done
-        link: "#"
-        authors: Cai
-        conference: None, 2020
+# publications:
+    # title: Publications
+    # intro: |
+      # None.
+    # papers:
+      # - title: To be done
+        # link: "#"
+        # authors: Cai
+        # conference: None, 2020
 
 skills:
     title: Skills &amp; Proficiency
@@ -114,4 +114,4 @@ skills:
         level: 80%
 
 footer: >
-    Contact me <i class="fas fa-heart"></i> with <a href="http://r06922141@g.ntu.edu.tw.com" target="_blank" rel="nofollow">my email</a>
+    Contact me <i class="fas fa-heart"></i> with <a href="mailto:r06922141@g.ntu.edu.tw.com" target="_blank" rel="nofollow">my email</a>
