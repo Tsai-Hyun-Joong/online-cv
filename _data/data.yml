@@ -62,7 +62,18 @@ education:
         xxx
           - Bullet point
           - Bullet point
+    - degree: High School
+      university: Local No.1 Middle School
+      time: 2010 - 2013
 experiences:
+    - role: Software Engineer (Intern)
+      time: 2017 - 2017
+      company: xxx, Hsinchu
+      details: |
+        Indoor Teacher Tracking. Using C++, Caffe, particle filter, background subtranction, head classifier, 
+        histogram equalization & comparison to implement tracking.
+          - C++, Caffe
+          - Particle filter and so on
     - role: Teacher & Organizer
       time: 2016 - 2017
       company: Corporation of Programming Contest, Fu Jen University, New Taipei
@@ -72,20 +83,17 @@ experiences:
         I'm so proud of them and also myself.
           - Knowledge Share
           - Teamwork
-    - role: Software Engineer (Intern)
-      time: 20xx - 20xx
-      company: xxx, Hsinchu
-      details: |
-        Indoor Teacher Tracking.
-          - C++
 projects:
     title: Projects
     intro: >
-      building······
+      I will focus on ML & DL projects and C++ based projects to enhance my skills.
     assignments:
       - title: AR Board Game
         link: "#hook"
         tagline: "Develop an AR board game on tablets"
+      - title: Portrait Search
+        link: "#hook"
+        tagline: "Train a model to best find the corresponding people in candidates"
 
 # publications:
     # title: Publications
